@@ -1,1 +1,1 @@
-# Colour-changing-app-Project
+# javascript-color-change-app
